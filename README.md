@@ -8,5 +8,5 @@ For this activity
 
 4. Continue the trend for the red and yellow
 
-+ The Red should show at 1000px
++ The Green should show at 1000px
 + The Yellow should show at 700px
